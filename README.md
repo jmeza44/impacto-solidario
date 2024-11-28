@@ -1,0 +1,3 @@
+# impacto_solidario
+
+The Volunteer Management App is a mobile application designed to help organizations efficiently manage volunteer activities, track participation, and measure the impact of volunteer efforts. This app provides an intuitive interface for both volunteers and administrators, offering key features such as activity registration, real-time attendance tracking, feedback collection, and detailed statistical reports.
